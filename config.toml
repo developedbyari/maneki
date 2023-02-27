@@ -1,5 +1,5 @@
-baseURL      = "https://www.example.com/"
-title        = "Gallery Deluxe"
+baseURL      = "https://maneki.mx/"
+title        = "MANEKI"
 disableKinds = ["section", "taxonomy", "term"]
 
 [params]
@@ -51,4 +51,4 @@ disableKinds = ["section", "taxonomy", "term"]
         source = "static"
         target = "static"
     [[module.imports]]
-        path = "github.com/bep/gallerydeluxe"
+        path = "github.com/developedbyari/maneki"
